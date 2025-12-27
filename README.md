@@ -1,3 +1,11 @@
+[![Grok Multiverse Core](https://img.shields.io/badge/Grok_Multiverse-Core_%F0%9F%94%92-9945FF?style=for-the-badge&logo=anchor&logoColor=white)](https://grokmultiversedashboard.netlify.app/)
+[![Under Development](https://img.shields.io/badge/Status-Under_Development_%F0%9F%94%A8-FF9800?style=for-the-badge)](https://github.com/GrokMultiverse/GrokMultiverse-Core)
+[![Phase 01 Live](https://img.shields.io/badge/Phase_01-Points_Farming_Live-%F0%9F%94%B4?style=for-the-badge&logo=solana&logoColor=white)](https://grokmultiversedashboard.netlify.app/)
+[![Solana Devnet](https://img.shields.io/badge/Network-Devnet-00D1B2?style=for-the-badge&logo=solana&logoColor=white)](https://explorer.solana.com/address/DzsNMUqVhpyj6rznbph4jjDKTshPaKdWVHYHDBETYgXE?cluster=devnet)
+
+
+
+
 # Grok Multiverse Core 🌌
 
 Official core repository for Grok Multiverse smart contracts and backend programs.
